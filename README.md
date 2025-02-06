@@ -13,26 +13,26 @@
 
 <div id="featured" align="center"><h2>Featured Repos</h2></div>
 
-[![ContentPOVs](https://github-readme-stats.vercel.app/api/pin/?username=gingerphoenix10&repo=ContentPOVs&show_icons=true&theme=tokyonight&hide_border=true&description_lines_count=2)](https://gingerphoenix10.com/gingerphoenix10/ContentPOVs)
+[![ContentPOVs](https://github-readme-stats.vercel.app/api/pin/?username=gingerphoenix10&repo=ContentPOVs&show_icons=true&theme=tokyonight&hide_border=true&description_lines_count=2)](https://github.com/gingerphoenix10/ContentPOVs)
 
 <div id="featured" align="center"><h2>Content Warning</h2></div>
 
-[![ContentPOVs](https://github-readme-stats.vercel.app/api/pin/?username=gingerphoenix10&repo=ContentPOVs&show_icons=true&theme=tokyonight&hide_border=true&description_lines_count=2)](https://gingerphoenix10.com/gingerphoenix10/ContentPOVs)
-[![DontSaveToDesktop](https://github-readme-stats.vercel.app/api/pin/?username=gingerphoenix10&repo=DontSaveToDesktop&show_icons=true&theme=tokyonight&hide_border=true&description_lines_count=2)](https://gingerphoenix10.com/gingerphoenix10/DontSaveToDesktop)
-[![BetterConsole](https://github-readme-stats.vercel.app/api/pin/?username=gingerphoenix10&repo=BetterConsole&show_icons=true&theme=tokyonight&hide_border=true&description_lines_count=2)](https://gingerphoenix10.com/gingerphoenix10/BetterConsole)
+[![ContentPOVs](https://github-readme-stats.vercel.app/api/pin/?username=gingerphoenix10&repo=ContentPOVs&show_icons=true&theme=tokyonight&hide_border=true&description_lines_count=2)](https://github.com/gingerphoenix10/ContentPOVs)
+[![DontSaveToDesktop](https://github-readme-stats.vercel.app/api/pin/?username=gingerphoenix10&repo=DontSaveToDesktop&show_icons=true&theme=tokyonight&hide_border=true&description_lines_count=2)](https://github.com/gingerphoenix10/DontSaveToDesktop)
+[![BetterConsole](https://github-readme-stats.vercel.app/api/pin/?username=gingerphoenix10&repo=BetterConsole&show_icons=true&theme=tokyonight&hide_border=true&description_lines_count=2)](https://github.com/gingerphoenix10/BetterConsole)
 #### -- Deprecated mods --
-[![BrighterSuitColors](https://github-readme-stats.vercel.app/api/pin/?username=gingerphoenix10&repo=BrighterSuitColors&show_icons=true&theme=tokyonight&hide_border=true&description_lines_count=2)](https://gingerphoenix10.com/gingerphoenix10/BrighterSuitColors)
-[![CWVR](https://github-readme-stats.vercel.app/api/pin/?username=gingerphoenix10&repo=CWVR&show_icons=true&theme=tokyonight&hide_border=true&description_lines_count=2)](https://gingerphoenix10.com/gingerphoenix10/CWVR)
+[![BrighterSuitColors](https://github-readme-stats.vercel.app/api/pin/?username=gingerphoenix10&repo=BrighterSuitColors&show_icons=true&theme=tokyonight&hide_border=true&description_lines_count=2)](https://github.com/gingerphoenix10/BrighterSuitColors)
+[![CWVR](https://github-readme-stats.vercel.app/api/pin/?username=gingerphoenix10&repo=CWVR&show_icons=true&theme=tokyonight&hide_border=true&description_lines_count=2)](https://github.com/gingerphoenix10/CWVR)
 
 <div id="featured" align="center"><h2>sm64coopdx</h2></div>
 
-[![Super Mania 64](https://github-readme-stats.vercel.app/api/pin/?username=gingerphoenix10&repo=super-mania-64&show_icons=true&theme=tokyonight&hide_border=true&description_lines_count=2)](https://gingerphoenix10.com/gingerphoenix10/super-mania-64)
-[![Mario Chase Deluxe](https://github-readme-stats.vercel.app/api/pin/?username=gingerphoenix10&repo=mario-chase-dx&show_icons=true&theme=tokyonight&hide_border=true&description_lines_count=2)](https://gingerphoenix10.com/gingerphoenix10/mario-chase-dx)
-[![Pishock Mario 64](https://github-readme-stats.vercel.app/api/pin/?username=gingerphoenix10&repo=pishock-mario-64&show_icons=true&theme=tokyonight&hide_border=true&description_lines_count=2)](https://gingerphoenix10.com/gingerphoenix10/pishock-mario-64)
+[![Super Mania 64](https://github-readme-stats.vercel.app/api/pin/?username=gingerphoenix10&repo=super-mania-64&show_icons=true&theme=tokyonight&hide_border=true&description_lines_count=2)](https://github.com/gingerphoenix10/super-mania-64)
+[![Mario Chase Deluxe](https://github-readme-stats.vercel.app/api/pin/?username=gingerphoenix10&repo=mario-chase-dx&show_icons=true&theme=tokyonight&hide_border=true&description_lines_count=2)](https://github.com/gingerphoenix10/mario-chase-dx)
+[![Pishock Mario 64](https://github-readme-stats.vercel.app/api/pin/?username=gingerphoenix10&repo=pishock-mario-64&show_icons=true&theme=tokyonight&hide_border=true&description_lines_count=2)](https://github.com/gingerphoenix10/pishock-mario-64)
 
 <div id="featured" align="center"><h2>Other personal projects</h2></div>
 
-[![A Dance of Lava and Water](https://github-readme-stats.vercel.app/api/pin/?username=gingerphoenix10&repo=adofai-roblox&show_icons=true&theme=tokyonight&hide_border=true&description_lines_count=2)](https://gingerphoenix10.com/gingerphoenix10/adofai-roblox)
-[![ADOFAI LeaderMod](https://github-readme-stats.vercel.app/api/pin/?username=gingerphoenix10&repo=AdofaiLeaderMod&show_icons=true&theme=tokyonight&hide_border=true&description_lines_count=2)](https://gingerphoenix10.com/gingerphoenix10/AdofaiLeaderMod)
-[![Ro32](https://github-readme-stats.vercel.app/api/pin/?username=gingerphoenix10&repo=Ro32&show_icons=true&theme=tokyonight&hide_border=true&description_lines_count=2)](https://gingerphoenix10.com/gingerphoenix10/Ro32)
-[![Rhythm Quest PhoenixMod](https://github-readme-stats.vercel.app/api/pin/?username=gingerphoenix10&repo=Rhythm-Quest-PhoenixMod&show_icons=true&theme=tokyonight&hide_border=true&description_lines_count=2)](https://gingerphoenix10.com/gingerphoenix10/Rhythm-Quest-PhoenixMod)
+[![A Dance of Lava and Water](https://github-readme-stats.vercel.app/api/pin/?username=gingerphoenix10&repo=adofai-roblox&show_icons=true&theme=tokyonight&hide_border=true&description_lines_count=2)](https://github.com/gingerphoenix10/adofai-roblox)
+[![ADOFAI LeaderMod](https://github-readme-stats.vercel.app/api/pin/?username=gingerphoenix10&repo=AdofaiLeaderMod&show_icons=true&theme=tokyonight&hide_border=true&description_lines_count=2)](https://github.com/gingerphoenix10/AdofaiLeaderMod)
+[![Ro32](https://github-readme-stats.vercel.app/api/pin/?username=gingerphoenix10&repo=Ro32&show_icons=true&theme=tokyonight&hide_border=true&description_lines_count=2)](https://github.com/gingerphoenix10/Ro32)
+[![Rhythm Quest PhoenixMod](https://github-readme-stats.vercel.app/api/pin/?username=gingerphoenix10&repo=Rhythm-Quest-PhoenixMod&show_icons=true&theme=tokyonight&hide_border=true&description_lines_count=2)](https://github.com/gingerphoenix10/Rhythm-Quest-PhoenixMod)
