@@ -16,7 +16,7 @@
 [![ContentPOVs](https://github-readme-stats.vercel.app/api/pin/?username=gingerphoenix10&repo=ContentPOVs&show_icons=true&theme=tokyonight&hide_border=true&description_lines_count=2)](https://github.com/gingerphoenix10/ContentPOVs)
 [![HasteTogether](https://github-readme-stats.vercel.app/api/pin/?username=HasteModding&repo=HasteTogether&show_icons=true&theme=tokyonight&hide_border=true&description_lines_count=2)](https://github.com/gingerphoenix10/HasteTogether)
 [![YARG-Xbox](https://github-readme-stats.vercel.app/api/pin/?username=gingerphoenix10&repo=YARG-Xbox&show_icons=true&theme=tokyonight&hide_border=true&description_lines_count=2)](https://github.com/gingerphoenix10/YARG-Xbox)
-[![YARGSpy-Client](https://github-readme-stats.vercel.app/api/pin/?username=gingerphoenix10&repo="YARGSpy-Client"&show_icons=true&theme=tokyonight&hide_border=true&description_lines_count=2)](https://github.com/gingerphoenix10/YARGSpy-Client)
+[![YARGSpy-Client](https://github-readme-stats.vercel.app/api/pin/?username=gingerphoenix10&repo=YARGSpy-Client&show_icons=true&theme=tokyonight&hide_border=true&description_lines_count=2)](https://github.com/gingerphoenix10/YARGSpy-Client)
 
 <div id="featured" align="center"><h2>Content Warning</h2></div>
 
