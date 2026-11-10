@@ -2,9 +2,8 @@
   <a href="https://github.com/@gingerphoenix10"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt9iETI9mzKdrKr9dfXy5HCGX73EZS3Za8Ag&s" width="100"/></a>
 </div><br>
 <div id="badges" align="center">
-    <a href="https://youtube.com/@gingerphoenix10"><img src="https://img.shields.io/youtube/channel/subscribers/UC87r86fo6uhoIsBqV_lYN9Q?style=for-the-badge&logo=youtube&logoColor=red"></a>
-    <a href="https://gingerphoenix10.com"><img src="https://img.shields.io/badge/Website-gray?style=for-the-badge"></a>
-    <a href="https://discord.gg/TZ8qW4HRsG"><img src="https://img.shields.io/discord/1166129414547980459?logo=discord&logoColor=white&label=discord&color=3b6cff&style=for-the-badge"></a>
+    <a href="https://www.gingerphoenix10.com"><img alt="badge" src="https://shieldcn.dev/youtube/subscribers/UC87r86fo6uhoIsBqV_lYN9Q.svg?size=default&amp;split=true&amp;color=f63b3b&amp;labelColor=27272A"></a>    <a href="https://discord.gg/TZ8qW4HRsG"><img alt="badge" src="https://shieldcn.dev/discord/1166129414547980459.svg?size=default&amp;split=true&amp;color=3b82f6&amp;labelColor=27272A"></a>
+    <a href="https://www.gingerphoenix10.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Website.svg?size=default&amp;theme=zinc&amp;logo=lu%3AGlobe&amp;mode=dark"><img alt="badge" src="https://shieldcn.dev/badge/Website.svg?size=default&amp;theme=zinc&amp;logo=lu%3AGlobe&amp;mode=light"></picture></a>
 </div><br>
 
 <div id="stats" align="center">
